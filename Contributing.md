@@ -1,4 +1,6 @@
 Code of Conduct:
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 Remind contributors to adhere to the community's Code of Conduct, which outlines expected behavior and interactions within the community.
 
 Getting Started:
