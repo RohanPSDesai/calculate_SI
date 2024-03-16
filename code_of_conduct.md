@@ -1,5 +1,5 @@
 Code of Conduct 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 
 A Code of Conduct, outlines the principles and standards of behavior expected from individuals involved in coding, software development.
 
